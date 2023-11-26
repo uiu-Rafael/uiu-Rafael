@@ -1,6 +1,4 @@
-
 #Olá, eu sou Rafael!
-
 ##Bem-vindo ao meu perfil GitHub 👋
 <br>
 
@@ -44,8 +42,8 @@ Meus objetivos futuros incluem ampliar meus conhecimentos em desenvolvimento Fro
 <br>
 
 ##📊 Estatísticas GitHub
+
 <div>
 <a href="https://github.com/uiu-Rafael">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiu-Rafael&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=uiu-Rafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
