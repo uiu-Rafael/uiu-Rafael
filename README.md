@@ -1,4 +1,4 @@
-#Olá, eu sou Rafael! <br> Bem-vindo ao meu perfil GitHub 👋
+# Olá, eu sou Rafael! Bem-vindo ao meu perfil GitHub 👋
 
 ## 👨‍💻 Sobre mim
 Sou um estudante de Engenharia da Computação na Uninassau, comprometido em aprimorar constantemente meus conhecimentos em tecnologias web modernas.
