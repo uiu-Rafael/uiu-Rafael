@@ -7,7 +7,7 @@ Sou um estudante de Engenharia da Computação na Uninassau, comprometido em apr
 ## 🚀 Progresso
 Atualmente, estou focado em aprofundar minha expertise em JavaScript e React, participando ativamente de projetos reais oferecidos pelo curso de formação da Softex Recife.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px">&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px">
 
 ## 🛠️ Habilidades
 Minhas habilidades incluem HTML, CSS, Bootstrap e JavaScript. Estou em constante evolução no desenvolvimento Front-end, com planos de aprimorar ainda mais essas habilidades, especialmente em frameworks como React.
